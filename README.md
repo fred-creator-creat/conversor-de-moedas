@@ -14,6 +14,7 @@ Um projeto simples para converter valores entre diferentes moedas, utilizando a 
 - [Observações](#observações)
 - [Contribuições](#contribuições)
 - [Licença](#licença)
+- [Autor](#autor)
 
 ## Descrição do Projeto
 
@@ -75,4 +76,14 @@ Valor em BRL: 525.00
 ## Observações
 - **Chave da API**: A chave da API ExchangeRate está configurada diretamente no código, na constante BASE_URL da classe ConversorDeMoedasAPI. Verifique e substitua esta chave pela sua chave pessoal da API, caso necessário.
 - **Limitações**: A aplicação está configurada apenas para a conversão de USD para outras moedas. Para adicionar novas moedas de origem, é necessário modificar a URL de chamada da API.
+
+## Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+Este projeto está licenciado sob a MIT License.
+
+## Autor
+
+Frederico Cavalheiro
 
