@@ -10,6 +10,7 @@ Um projeto simples para converter valores entre diferentes moedas, utilizando a 
 - [Como Usar](#como-usar)
 - [Estrutura do Código](#estrutura-do-código)
 - [Exemplo de Saída](#exemplo-de-saída)
+- [Dependências](#dependências)
 - [Contribuições](#contribuições)
 - [Licença](#licença)
 
@@ -66,4 +67,7 @@ Digite o número correspondente à moeda de destino: 1
 Taxa de câmbio USD para BRL: 5.2500
 
 Valor em BRL: 525.00
+
+## Dependências
+- Gson (para processamento de JSON): com.google.code.gson:gson:2.10.1
 
