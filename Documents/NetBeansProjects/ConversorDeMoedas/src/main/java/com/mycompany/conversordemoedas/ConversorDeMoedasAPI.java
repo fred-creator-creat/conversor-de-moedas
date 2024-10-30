@@ -10,7 +10,7 @@ import java.util.Map;
 public class ConversorDeMoedasAPI {
 
     // URL base da API
-    private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/f262e19a0e063766751069fb/latest/";
+    private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/sua-chave/latest/";
 
     /**
      * Obtém a taxa de câmbio entre duas moedas.
