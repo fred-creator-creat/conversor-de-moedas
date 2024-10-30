@@ -11,6 +11,7 @@ Um projeto simples para converter valores entre diferentes moedas, utilizando a 
 - [Estrutura do Código](#estrutura-do-código)
 - [Exemplo de Saída](#exemplo-de-saída)
 - [Dependências](#dependências)
+- [Observações](#observações)
 - [Contribuições](#contribuições)
 - [Licença](#licença)
 
@@ -70,4 +71,8 @@ Valor em BRL: 525.00
 
 ## Dependências
 - Gson (para processamento de JSON): com.google.code.gson:gson:2.10.1
+
+## Observações
+- **Chave da API**: A chave da API ExchangeRate está configurada diretamente no código, na constante BASE_URL da classe ConversorDeMoedasAPI. Verifique e substitua esta chave pela sua chave pessoal da API, caso necessário.
+- **Limitações**: A aplicação está configurada apenas para a conversão de USD para outras moedas. Para adicionar novas moedas de origem, é necessário modificar a URL de chamada da API.
 
