@@ -18,7 +18,7 @@ O **Conversor de Moedas** permite que usuários convertam valores em USD para di
 
 ## Tecnologias Utilizadas
 
-- **Java**: Linguagem de programação utilizada.
+- **Java 21**: Linguagem de programação utilizada.
 - **Gson**: Biblioteca para manipulação de JSON.
 - **Exchange Rate API**: API utilizada para obter taxas de câmbio.
 
