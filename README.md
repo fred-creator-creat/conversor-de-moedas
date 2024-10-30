@@ -28,3 +28,9 @@ O **Conversor de Moedas** permite que usuários convertam valores em USD para di
    ```bash
    git clone https://github.com/fred-creator-creat/conversor-de-moedas.git
    cd conversor-de-moedas
+
+## Como Usar
+O programa solicita que o usuário insira o valor em USD que deseja converter.
+Em seguida, apresenta uma lista de moedas de destino e solicita ao usuário que escolha uma das opções.
+O valor convertido é então exibido com a taxa de câmbio atual.
+Ao final, o usuário pode optar por realizar uma nova conversão ou encerrar o programa.
