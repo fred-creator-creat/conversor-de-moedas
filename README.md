@@ -39,9 +39,9 @@ O **Conversor de Moedas** permite que usuários convertam valores em USD para di
 
 ## Estrutura do Código
 
-ConversorDeMoedas.java: Classe principal com a interface em linha de comando, que captura o valor do usuário, a moeda de destino e exibe o valor convertido.
-ConversorDeMoedasAPI.java: Classe auxiliar que conecta-se à API ExchangeRate e obtém a taxa de câmbio entre USD e a moeda de destino.
-pom.xml: Arquivo de configuração do Maven, que define as dependências e as propriedades do projeto.
+- **ConversorDeMoedas.java**: Classe principal com a interface em linha de comando, que captura o valor do usuário, a moeda de destino e exibe o valor convertido.
+- **ConversorDeMoedasAPI.java**: Classe auxiliar que conecta-se à API ExchangeRate e obtém a taxa de câmbio entre USD e a moeda de destino.
+- **pom.xml**: Arquivo de configuração do Maven, que define as dependências e as propriedades do projeto.
 
 ## Exemplo de Saída
 
