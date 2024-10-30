@@ -39,15 +39,24 @@ O **Conversor de Moedas** permite que usuários convertam valores em USD para di
 ## Exemplo de Saída
 
 Digite o valor em USD que deseja converter: 100
+
 Escolha a moeda de destino:
+
 1: BRL
+
 2: EUR
+
 3: GBP
+
 4: CHF
+
 5: JPY
+
 6: AUD
+
 Digite o número correspondente à moeda de destino: 1
 
 Taxa de câmbio USD para BRL: 5.2500
+
 Valor em BRL: 525.00
 
