@@ -8,6 +8,7 @@ Um projeto simples para converter valores entre diferentes moedas, utilizando a 
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação e Configuração](#instalação-e-configuração)
 - [Como Usar](#como-usar)
+- [Estrutura do Código](#estrutura-do-código)
 - [Exemplo de Saída](#exemplo-de-saída)
 - [Contribuições](#contribuições)
 - [Licença](#licença)
@@ -35,6 +36,12 @@ O **Conversor de Moedas** permite que usuários convertam valores em USD para di
 2. Em seguida, apresenta uma lista de moedas de destino e solicita ao usuário que escolha uma das opções.
 3. O valor convertido é então exibido com a taxa de câmbio atual.
 4. Ao final, o usuário pode optar por realizar uma nova conversão ou encerrar o programa.
+
+## Estrutura do Código
+
+ConversorDeMoedas.java: Classe principal com a interface em linha de comando, que captura o valor do usuário, a moeda de destino e exibe o valor convertido.
+ConversorDeMoedasAPI.java: Classe auxiliar que conecta-se à API ExchangeRate e obtém a taxa de câmbio entre USD e a moeda de destino.
+pom.xml: Arquivo de configuração do Maven, que define as dependências e as propriedades do projeto.
 
 ## Exemplo de Saída
 
