@@ -30,7 +30,24 @@ O **Conversor de Moedas** permite que usuários convertam valores em USD para di
    cd conversor-de-moedas
 
 ## Como Usar
+
 1. O programa solicita que o usuário insira o valor em USD que deseja converter.
 2. Em seguida, apresenta uma lista de moedas de destino e solicita ao usuário que escolha uma das opções.
 3. O valor convertido é então exibido com a taxa de câmbio atual.
 4. Ao final, o usuário pode optar por realizar uma nova conversão ou encerrar o programa.
+
+## Exemplo de Saída
+
+Digite o valor em USD que deseja converter: 100
+Escolha a moeda de destino:
+1: BRL
+2: EUR
+3: GBP
+4: CHF
+5: JPY
+6: AUD
+Digite o número correspondente à moeda de destino: 1
+
+Taxa de câmbio USD para BRL: 5.2500
+Valor em BRL: 525.00
+
